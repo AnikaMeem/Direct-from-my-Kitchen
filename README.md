@@ -1,8 +1,4 @@
-Name: Anika Tahsin Meem
-ID: 1721810642
-Course: CSE311 lab
-Sectiion: 6
-Instructor: Raktim Raihan Prova
+
 Project Topic Name:  Direct from my Kitchen-Management
 
 "Direct from my Kitchen is a cafe and restaurant management website with both user and admin panel."
